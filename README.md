@@ -8,7 +8,7 @@ Let's make up your computer :)
 
 maybe even otherwise version also OK.
 
-![img jpeg](/img/img.jpeg "img sample")
+![img jpeg](https://github.com/murataka9/Happy-Halloween/blob/master/img/img.jpeg "img sample")
 
 
 ## License
