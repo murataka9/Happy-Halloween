@@ -7,9 +7,7 @@ Let's make up your computer :)
 - AI (Adobe CC and later)
 
 maybe even otherwise version also OK.
-
-![img jpeg](https://github.com/murataka9/Happy-Halloween/blob/master/img/img.jpeg "img sample")
-
+<img src="/img/img.jpeg" width="200px">
 
 ## License
 
