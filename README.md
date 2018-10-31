@@ -7,6 +7,7 @@ Let's make up your computer :)
 - AI (Adobe CC and later)
 
 maybe even otherwise version also OK.
+
 <img src="/img/img.jpeg" width="200px">
 
 ## License
