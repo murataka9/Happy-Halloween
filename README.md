@@ -7,7 +7,7 @@ Let's make up your computer :)
 - AI (Adobe CC and later)
 
 maybe even otherwise version also OK.
-It might be a good idea to　resize to your paper size, beceause Canvas size is A6 (Japan Standart)
+It might be a good idea to　resize to your paper size, beceause Canvas size is A6 (Japan Standard)
 
 <img src="/img/img.jpeg" width="200px">
 
